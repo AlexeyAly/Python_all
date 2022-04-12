@@ -1,1 +1,4 @@
-print(2%2)
+b="At the moment I'm in Ukraine and as you know it is very difficult situation here. I want to find remote job in Data Science in order to be able to work and to do what i like and what i can. I beleive that with the help of this course I will be able to bring some use for the development of the data science and to develop solutions for people. ".split()
+c="At the moment I'm in Ukraine and as you know it is very difficult situation here. I want to find remote job in Data Science in order to be able to work and to do what i like and what i can. I beleive that with the help of this course I will be able to bring some use for the development of the data science and to develop solutions for people. Also this course will help me to overcome the stress from what is going on around me in my country. I really hope that it all will be over soon and no people will die anymore. I hope to receive the know how to be able to find a good position in a reputable company and maybe to relocate to a better place when it will be over. ".split()
+s = 'i LEARN Python LAnguaGE'
+print(len(c))
