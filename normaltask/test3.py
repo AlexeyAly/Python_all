@@ -1,7 +1,7 @@
-from fractions import*
+m=["kjhg","kujhg"]
 
-l=[Fraction(4,8)]
-print(*             l)
+n=" ".join(m)
+print(n)
 
 
 
