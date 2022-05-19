@@ -1,0 +1,1 @@
+print(all([any(["5" in input() for i in range(int(input()))]) for j in range(int(input()))   ])  )
